@@ -5,24 +5,16 @@
       "url": "/"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
+      "name": "Vehicle Types",
+      "url": "#vehicle-types"
     },
     {
-      "name": "Pricing",
-      "url": "/pricing"
+      "name": "How It Works",
+      "url": "#how-it-works"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Testimonials",
+      "url": "#testimonials"
     }
   ],
   "footer": [
@@ -30,12 +22,8 @@
       "name": "Company",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "text": "Quick Start",
-          "url": "#"
+          "text": "Home",
+          "url": "/"
         }
       ]
     },
@@ -43,16 +31,16 @@
       "name": "Product",
       "menu": [
         {
-          "text": "Features",
-          "url": "#"
+          "text": "Vehicle Types",
+          "url": "#vehicle-types"
         },
         {
-          "text": "Platform",
-          "url": "#"
+          "text": "How It Works",
+          "url": "#how-it-works"
         },
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Testimonials",
+          "url": "#testimonials"
         }
       ]
     },

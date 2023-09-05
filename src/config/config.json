@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
-    "base_url": "https://bigspring-light-astro.vercel.app",
+    "title": "American Cash for Junk Cars",
+    "base_url": "https://americancashforjunkcars.com/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "38",
-    "logo_text": "Astroplate"
+    "logo": "/images/acfjclogo.jpg",
+    "logo_width": "100",
+    "logo_height": "100",
+    "logo_text": "American Cash for Junk Cars"
   },
 
   "settings": {
@@ -19,20 +19,20 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "/contact"
+    "label": "313-775-1900",
+    "link": "tel:313-775-1900"
   },
 
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "footer_content": "Turn your old car into instant cash with American Cash for Junk Cars. We buy a wide range of vehicles in Detroit, MI. Get a free quote now!",
+    "copyright": "Designed and Developed By [DearbornIO](https://dearborn.io/)"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "DearbornIO",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro boilerplate"
+    "meta_description": "American Cash for Junk Cars"
   }
 }

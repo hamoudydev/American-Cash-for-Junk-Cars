@@ -1,93 +1,81 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
-  image: /images/banner-art.png
+  title: Get Instant Cash for Your Old Car
+  content: Sell Your Junk Car Easily in Detroit, MI – Turn Your Clunker into Cash Today
+  image: /images/header.png
   button:
-    label: "Contact Us"
-    link: "/contact"
+    label: "Call NOW!"
+    link: "tel:313-775-1900"
     enable: true
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: Types of Vehicles We Buy
   features:
-  - name: "Clean Code"
-    icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
-    icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
-    icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
-    icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
-    icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
-    icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+  - name: "Junk Cars"
+    icon: "/images/damagedcar.png"
+    content: "We purchase old and non-running vehicles that may be taking up space in your driveway or garage."
+  - name: "Damaged Cars"
+    icon: "/images/caraccident.png"
+    content: "If your car has been in an accident and is no longer drivable, we'll still offer cash for it."
+  - name: "Non-Running Cars"
+    icon: "/images/smokingcar.png"
+    content: "Even if your car doesn't start or has severe mechanical issues, we're interested in buying it."
+  - name: "Flood Damaged"
+    icon: "/images/flood.png"
+    content: "If your vehicle has been affected by flooding, we'll make a cash offer for it."
+  - name: "High Mileage Cars"
+    icon: "/images/traffic.png"
+    content: "Don't worry about the odometer reading; we buy cars with high mileage too."
+  - name: "Salvage Title Cars"
+    icon: "/images/salvage-title.svg"
+    content: "If your vehicle has a salvage title, we're interested in purchasing it."
+
+bridge:
+  title: How It Works
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Step 1: Get a Quote"
+    content: "Call us to provide details about your vehicle. Receive a fast and free quote based on the information you provide."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/transparentphonecall.png"
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Step 2: Free Towing"
+    content: "Our team will arrive at your location with a tow truck. We'll tow your car away at no cost to you."
     images: 
-      - "/images/service-slide-1.png"
+      - "/images/flatbed-car.png"
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: /contact
   
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Step 3: Get Paid"
+    content: "Receive cash on the spot when we pick up your vehicle. No hidden fees or delays -- we ensure a quick and hassle-free payment process."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/money.png"
     button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
+      enable: false
       label: Check it out
       link: /contact
 
 # workflow
 workflow: 
   title: "Experience the best workflow with us"
-  image: "/images/banner.png"
+  image: "/images/bottom-banner-2.png"
   description: ""
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
-  image: '/images/cta.png'
+  title: Ready to Get Cash for Your Car Today?
+  content: 
+  image: '/images/sell-your-junk-car-online.png'
   button:
     enable: true
-    label: "Contact Us"
-    link: "/contact"
+    label: "Call Now!"
+    link: "tel:313-775-1900"
 ---
