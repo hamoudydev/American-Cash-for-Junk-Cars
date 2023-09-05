@@ -13,25 +13,6 @@
   @apply mb-5 leading-10;
 }
 
-// social icon style
-.social-icons {
-  @apply space-x-4;
-  li {
-    @apply inline-block;
-    a {
-      @apply block h-9 w-9 rounded-full border border-primary text-center text-white transition hover:bg-primary;
-
-      svg {
-        @apply m-auto h-9 fill-primary;
-      }
-
-      &:hover svg {
-        @apply fill-white;
-      }
-    }
-  }
-}
-
 // form style
 .form-input,
 .form-textarea {
