@@ -20,7 +20,7 @@ const {footer_content, copyright} = config.params;
             <h2 class="h4" set:html={markdownify(col.name)}></h2>
             <ul class="mt-6">
               {col?.menu.map((item) => (
-                <li class="mb-1">
+                <li class="mb-4">
                   <a href={item.url} rel="">
                     {item.text}
                   </a>
