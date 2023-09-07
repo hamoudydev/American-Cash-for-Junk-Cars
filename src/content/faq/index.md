@@ -5,11 +5,11 @@ faqs:
 - title: What is American Cash for Junk Cars?
   answer: American Cash for Junk Cars is a service that buys old, damaged, non-running, and unwanted vehicles in exchange for cash. We provide a convenient and hassle-free way to sell your vehicle.
 - title: Where are you located?
-  answer: We are located in Detroit, MI, and serve the surrounding areas.
+  answer: We are located at 23850 Fenkell Street in Detroit, MI.
 - title: What types of vehicles do you buy?
   answer: We buy a wide range of vehicles, including junk cars, damaged cars, non-running cars, high-mileage cars, flood-damaged vehicles, and those with salvage titles.
 - title: How do I get a quote for my vehicle?
-  answer: To get a quote for your vehicle, you can [contact us](tel:313-775-1900) by filling out our online form or calling us. Provide details about your vehicle, and we'll provide you with a free quote.
+  answer: To get a quote for your vehicle, you can [contact us](tel:313-775-1900) by calling us. Provide details about your vehicle, and we'll provide you with a free quote.
 - title: Is the quote final?
   answer: The initial quote is based on the information you provide. However, the final offer may be adjusted after a vehicle inspection, taking into account its actual condition.
 - title: Do I need to tow my vehicle to your location?
@@ -21,7 +21,7 @@ faqs:
 - title: What happens to my vehicle after I sell it?
   answer: We ensure responsible disposal of vehicles in an environmentally friendly manner, adhering to all regulations.
 - title: How can I contact American Cash for Junk Cars?
-  answer: You can [contact us](tel:313-775-1900) through our online form or by calling us at 313-775-1900. We're here to assist you with any questions or concerns.
+  answer: You can [contact us](tel:313-775-1900) calling us at 313-775-1900. We're here to assist you with any questions or concerns.
 
 ---
 
