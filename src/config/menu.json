@@ -32,15 +32,15 @@
       ]
     },
     {
-      "name": "",
+      "name": "Links",
       "menu": [
         {
-          "text": "",
-          "url": ""
+          "text": "Home",
+          "url": "/"
         },
         {
-          "text": "",
-          "url": ""
+          "text": "Blog",
+          "url": "/blog"
         }
       ]
     },

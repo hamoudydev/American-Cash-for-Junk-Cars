@@ -1,4 +1,4 @@
 ---
-title: "Latest news"
-description: "this is meta description"
+title: "Recent Posts"
+description: "American Cash for Junk Cars Blog Posts"
 ---
