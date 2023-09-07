@@ -15,6 +15,10 @@
     {
       "name": "Testimonials",
       "url": "/#testimonials"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
     }
   ],
   "footer": [
