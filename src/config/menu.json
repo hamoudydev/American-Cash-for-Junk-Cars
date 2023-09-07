@@ -19,28 +19,31 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "American Cash For Junk Cars",
       "menu": [
         {
-          "text": "Home",
-          "url": "/"
+          "text": "📞 313-775-1900",
+          "url": "tel:313-775-1900"
+        },
+        {
+          "text": "🕗 Open Daily 8am-8pm"
+        },
+        {
+          "text": "📍 23850 Fenkell St., Detroit 48223",
+          "url": "https://goo.gl/maps/sM4CtwmR82mzBzCo7"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "",
       "menu": [
         {
-          "text": "Vehicle Types",
-          "url": "#vehicle-types"
+          "text": "",
+          "url": ""
         },
         {
-          "text": "How It Works",
-          "url": "#how-it-works"
-        },
-        {
-          "text": "Testimonials",
-          "url": "#testimonials"
+          "text": "",
+          "url": ""
         }
       ]
     },
