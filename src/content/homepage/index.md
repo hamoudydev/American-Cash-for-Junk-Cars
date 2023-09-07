@@ -1,5 +1,6 @@
 ---
 banner:
+  topimage: /images/flagbanner.png
   title: Get Instant Cash for Your Old Car
   content: Sell Your Junk Car Easily in Detroit, MI – Turn Your Clunker into Cash Today
   image: /images/header.png
